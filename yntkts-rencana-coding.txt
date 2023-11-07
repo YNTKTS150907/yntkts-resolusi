@@ -1,0 +1,4 @@
+RENCANA CODING YNTKTS:
+- Bikin web jual beli
+- Bikin web portofolio
+- Bikin web landing page perusahaan
