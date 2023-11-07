@@ -1,0 +1,6 @@
+RENCANA CODING YNTKTS:
+- Bikin web jual beli
+* seperti tokopedia
+* seperti bukalapak
+- Bikin web portofolio
+- Bikin web landing page perusahaan
