@@ -1,7 +1,10 @@
 RENCANA CODING YNTKTS:
 - Bikin web jual beli
 * seperti tokopedia
+  * ada fitur-fiturnya dan lengkap
 * seperti bukalapak
+  * ada fitur-fiturnya dan lengkap
 - Bikin web portofolio
+ * menggunakan parallax effect
 - Bikin Aplikasi Pemesanan tiket
 - Bikin web landing page perusahaan
