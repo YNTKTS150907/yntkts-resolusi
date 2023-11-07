@@ -2,5 +2,5 @@ YNTKTS RESOLUSI:
 - Konsisten untuk belajar coding
 - Agar bisa mempertahankan prestasi
 - Membahagiakan orang tua
-- Bercita-cita menjadi programmer handal
 - Membuat Website yang bagus
+- Membuat aplikasi
