@@ -3,4 +3,5 @@ RENCANA CODING YNTKTS:
 * seperti tokopedia
 * seperti bukalapak
 - Bikin web portofolio
+- Bikin Aplikasi Pemesanan tiket
 - Bikin web landing page perusahaan
