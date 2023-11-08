@@ -6,5 +6,6 @@ RENCANA CODING YNTKTS:
   * ada fitur-fiturnya dan lengkap
 - Bikin web portofolio
  * menggunakan parallax effect
+ * membuat website nya dinamis
 - Bikin Aplikasi Pemesanan tiket
 - Bikin web landing page perusahaan
